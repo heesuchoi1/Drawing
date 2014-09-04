@@ -5,5 +5,5 @@ function setup() {
   noFill();
   line(10, 10, 90, 10);
     rect(20, 20, 80, 50);
-    ellipse(50, 50, 50, 50);
+    ellipse(320, 240, 100, 50);
 }
